@@ -1,0 +1,15 @@
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\bin\Debug\net8.0\Tumakov1.exe
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\bin\Debug\net8.0\Tumakov1.deps.json
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\bin\Debug\net8.0\Tumakov1.runtimeconfig.json
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\bin\Debug\net8.0\Tumakov1.dll
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\bin\Debug\net8.0\Tumakov1.pdb
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.AssemblyInfoInputs.cache
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.AssemblyInfo.cs
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.csproj.CoreCompileInputs.cache
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.sourcelink.json
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.dll
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\refint\Tumakov1.dll
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.pdb
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\Tumakov1.genruntimeconfig.cache
+C:\Users\lilti\source\repos\IlgamIltinbaev\DZ1\06.09.25\Tumakov1\obj\Debug\net8.0\ref\Tumakov1.dll
