@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Tumakov1.csproj": {}
+    "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\Tumakov1\\Tumakov1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Tumakov1.csproj": {
+    "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\Tumakov1\\Tumakov1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Tumakov1.csproj",
+        "projectUniqueName": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\Tumakov1\\Tumakov1.csproj",
         "projectName": "Tumakov1",
-        "projectPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Tumakov1.csproj",
+        "projectPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\Tumakov1\\Tumakov1.csproj",
         "packagesPath": "C:\\Users\\lilti\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\obj\\",
+        "outputPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\Tumakov1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

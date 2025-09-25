@@ -1,13 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\",
+  "WorkspaceRootPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F8718363-1817-4ECA-A014-67C37B64D0AF}|Tumakov1\\Tumakov1.csproj|c:\\users\\lilti\\source\\repos\\ilgamiltinbaev\\dz1\\06.09.25\\tumakov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F8718363-1817-4ECA-A014-67C37B64D0AF}|Tumakov1\\Tumakov1.csproj|solutionrelative:tumakov1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DAF0551A-8DF0-47DB-B73B-F3B603B0F779}|DZ1\\DZ1.csproj|c:\\users\\lilti\\source\\repos\\ilgamiltinbaev\\dz1\\06.09.25\\dz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{DAF0551A-8DF0-47DB-B73B-F3B603B0F779}|DZ1\\DZ1.csproj|c:\\users\\lilti\\source\\repos\\ilgamiltinbaev\\dz1\\dz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DAF0551A-8DF0-47DB-B73B-F3B603B0F779}|DZ1\\DZ1.csproj|solutionrelative:dz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -36,26 +32,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Program.cs",
-              "RelativeDocumentMoniker": "Tumakov1\\Program.cs",
-              "ToolTip": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\Tumakov1\\Program.cs",
-              "RelativeToolTip": "Tumakov1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:34:43.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\DZ1\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\DZ1\\Program.cs",
               "RelativeDocumentMoniker": "DZ1\\Program.cs",
-              "ToolTip": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\DZ1\\Program.cs",
+              "ToolTip": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\DZ1\\Program.cs",
               "RelativeToolTip": "DZ1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-22T18:32:04.689Z"
+              "WhenOpened": "2025-09-22T18:32:04.689Z",
+              "EditorCaption": ""
             }
           ]
         }

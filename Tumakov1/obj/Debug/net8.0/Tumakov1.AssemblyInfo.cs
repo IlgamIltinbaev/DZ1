@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tumakov1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f4f065200931221e4519e88a3660ba747e20ce81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a65702e7a8faae53927bfcff54e64134b5da9a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tumakov1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tumakov1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

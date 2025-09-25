@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\DZ1\\DZ1.csproj",
+      "projectUniqueName": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\DZ1\\DZ1.csproj",
       "projectName": "DZ1",
-      "projectPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\DZ1\\DZ1.csproj",
+      "projectPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\DZ1\\DZ1.csproj",
       "packagesPath": "C:\\Users\\lilti\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\06.09.25\\DZ1\\obj\\",
+      "outputPath": "C:\\Users\\lilti\\source\\repos\\IlgamIltinbaev\\DZ1\\DZ1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
